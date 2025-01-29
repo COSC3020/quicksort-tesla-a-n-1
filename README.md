@@ -20,4 +20,6 @@ Looking at the partition function and the main function which uses a stack inste
 
 I looked at [This](https://www.hackerrank.com/challenges/quicksort3/problem) to understand the concept better and took example of using the last element as the pivot.
 
-"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice." This was my submission from last semester.
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice." 
+
+This was my submission from last semester.
